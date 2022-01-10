@@ -649,7 +649,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "benedict.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with anything IT and Cybersecurity.",
+      "I am available anytime on my various socials. Feel free to contact me with your cool ideas on IT and Cybersecurity ;)",
   },
   // blogSection: {
   //   title: "Blogs",
