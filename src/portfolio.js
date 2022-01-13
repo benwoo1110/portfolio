@@ -423,6 +423,8 @@ const certifications = {
     {
       title: "Cyber Security - Why SIEM solutions never work",
       subtitle: "Industry Engagement",
+      description: 
+        "I attended a very insightful webinar that discusses in details Security Event and Incident Management (SEIM) and its effectiveness as a cybersecurity tool. While SEIM allows for a centralised platform, more time should be spent on prevention compared to detection.",
       logo_path: "siem_1.png",
       certificate_link:"",
       alt_name: "Cyber Security - Why SIEM solutions never work",
@@ -431,6 +433,8 @@ const certifications = {
     {
       title: "Power what’s next: Preparing future critical capabilities for IT and cyber security teams",
       subtitle: "Industry Engagement",
+      description: 
+        "The IT and Cybersecurity landscape is always changing, and it is important for corporations to continuously adapt and prepare for the future. This webinar discusses how the bar has been raised for cyber teams and gave insightful advice on how organisations can improve their cyber position.",
       logo_path: "power_1.png",
       certificate_link:"",
       alt_name: "Power what’s next: Preparing future critical capabilities for IT and cyber security teams",
@@ -439,6 +443,7 @@ const certifications = {
     {
       title: "Log4j - EVERYTHING You Need To Know",
       subtitle: "Industry Engagement",
+      description: "After hearing the recent news about a serious vulnerability with Log4j, I wanted to learn more on this topic. Thus, I attended this webinar where they explain and gave a demo on how the exploit works. This is a good reminder of the importance of cybersecurity.",
       logo_path: "logj4_1.png",
       certificate_link:"",
       alt_name: "Log4j - EVERYTHING You Need To Know",
