@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual studying Cybersecurity in Singapore.",
   resumeLink:
-    "",
+    "/resume.pdf",
   portfolio_repository: "https://github.com/benwoo1110/portfolio",
   githubProfile: "https://github.com/benwoo1110",
 };
